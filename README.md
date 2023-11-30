@@ -5,7 +5,7 @@
 - <b>Room Booking System</b>
   - (https://github.com/AntonioVasto/RoomBookingSystem)
 - <b>Comparison of breadth-first search and depth-first search</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - https://github.com/AntonioVasto/DFS_BFS_Algorithms
   
 <h2>📄Certifications</h2>
 - [Learn Python 3](https://www.codecademy.com/profiles/AntonioVasto/certificates/6c152bd262967f8c941c9707ed636bda)
